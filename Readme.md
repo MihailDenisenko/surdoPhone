@@ -242,4 +242,3 @@ yarn typecheck
 
 *Сделано с ❤️ и уважением к жестовому языку*  
 *Surdo.Media Mobile Team © 2026*
-```
