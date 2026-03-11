@@ -1,0 +1,63 @@
+{
+  "common": {
+    "loading": "Загрузка...",
+    "error": "Ошибка загрузки",
+    "retry": "Повторить",
+    "no_data": "Нет данных",
+    "back": "Назад"
+  },
+  "home": {
+    "title": "Surdo.Media",
+    "quick_access": "Быстрый доступ",
+    "show_all_categories": "Показать все категории",
+    "hide_all": "Скрыть",
+    "carousel_hint": "Свайпайте влево для просмотра категорий",
+    "search_placeholder": "Поиск жестов..."
+  },
+  "category": {
+    "videos_count": "Видео: {{count}}",
+    "watch_video": "Смотреть видео",
+    "no_videos": "В этой категории пока нет видео"
+  },
+  "video": {
+    "loading": "Загрузка видео...",
+    "load_error": "Не удалось загрузить видео",
+    "playback_error": "Ошибка воспроизведения",
+    "gesture_name": "Название жеста",
+    "duration": "Длительность",
+    "full_screen": "Полноэкранный режим",
+    "download": "Скачать видео",
+    "downloading": "Скачивание...",
+    "download_success_title": "Готово!",
+    "download_success_message": "Видео сохранено в галерею",
+    "download_error": "Не удалось скачать видео",
+    "permission_denied": "Нужен доступ к галерее для сохранения видео",
+    "share_title": "Поделиться видео",
+    "share_error": "Не удалось поделиться"
+  },
+  "search": {
+    "results": "Найдено: {{count}}",
+    "history": "История поиска",
+    "clear_history": "Очистить",
+    "recent": "Недавно просмотренные",
+    "clear_recent": "Очистить",
+    "no_results": "Ничего не найдено"
+  },
+  "favorites": {
+    "title": "Избранное",
+    "empty": "В избранном пока нет жестов",
+    "add": "Добавить в избранное",
+    "remove": "Удалить из избранного",
+    "add_to_favorites": "В избранное",
+    "in_favorites": "В избранном",
+    "added_title": "Добавлено!",
+    "added_message": "\"{{name}}\" добавлено в избранное",
+    "removed_title": "Удалено",
+    "removed_message": "\"{{name}}\" удалено из избранного"
+  },
+  "history": {
+    "title": "История просмотров",
+    "empty": "История просмотров пуста",
+    "clear": "Очистить"
+  }
+}

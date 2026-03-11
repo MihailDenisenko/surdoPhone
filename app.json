@@ -1,30 +1,54 @@
 {
   "expo": {
-    "name": "surdoMediaProject",
-    "slug": "surdoMediaProject",
+    "scheme": "surdomedia",
+    "web": {
+      "favicon": "./src/assets/banner.png"
+    },
+    "plugins": [
+      "expo-sqlite",
+      [
+        "expo-media-library",
+        {
+          "photosPermission": "Разрешите приложению сохранять видео в галерею",
+          "savePhotosPermission": "Разрешите приложению сохранять видео",
+          "isAccessMediaLocationEnabled": true
+        }
+      ]
+    ],
+    "name": "Surdo.Media",
+    "slug": "surdophone",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
+    "icon": "./src/assets/logo.png",
     "splash": {
-      "image": "./assets/splash-icon.png",
+      "image": "./src/assets/banner.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.surdo.media",
+      "infoPlist": {
+        "NSPhotoLibraryUsageDescription": "Приложению нужен доступ для сохранения видео в галерею",
+        "NSPhotoLibraryAddUsageDescription": "Приложению нужно разрешение для сохранения видео"
+      }
     },
     "android": {
       "adaptiveIcon": {
-        "backgroundColor": "#E6F4FE",
-        "foregroundImage": "./assets/android-icon-foreground.png",
-        "backgroundImage": "./assets/android-icon-background.png",
-        "monochromeImage": "./assets/android-icon-monochrome.png"
+        "foregroundImage": "./src/assets/logo.png",
+        "backgroundColor": "#ffffff"
       },
-      "predictiveBackGestureEnabled": false
+      "package": "com.surdo.media",
+      "permissions": [
+        "WRITE_EXTERNAL_STORAGE",
+        "READ_EXTERNAL_STORAGE"
+      ]
     },
-    "web": {
-      "favicon": "./assets/favicon.png"
-    }
+    "extra": {
+      "eas": {
+        "projectId": "fbe33f44-4494-4291-bf9f-2294f968b3ea"
+      }
+    },
+    "owner": "vidkinomedia"
   }
 }

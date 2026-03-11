@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "157313443933",
+    "project_id": "surdomedia",
+    "storage_bucket": "surdomedia.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157313443933:android:90029c2042e57f29e9c5b4",
+        "android_client_info": {
+          "package_name": "android.package"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157313443933-cg4bhscmg99i5qddmk24f3efanjne7ev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-HGvC6EyKeHLQJbHsgJ4jUd9Z-X2SHpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157313443933-cg4bhscmg99i5qddmk24f3efanjne7ev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
