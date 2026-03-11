@@ -3,11 +3,11 @@
 
 > 📱 Кроссплатформенное мобильное приложение для изучения Русского жестового языка (РЖЯ)
 
-![React Native](https://badgen.net/badge/React_Native/20232A?icon=react&label)
-![TypeScript](https://badgen.net/badge/TypeScript/007ACC?icon=typescript&label)
-![iOS](https://badgen.net/badge/iOS/000000?icon=apple&label)
-![Android](https://badgen.net/badge/Android/3DDC84?icon=google-play&label)
-![License](https://badgen.net/badge/License/MIT/blue)
+![React Native](./assets/React_Native-20232A.svg)
+![TypeScript](./assets/TypeScript-007ACC.svg)
+![iOS](./assets/iOS-000000.svg)
+![Android](./assets/Android-3DDC84.svg)
+![License](./assets/License-MIT-blue.svg)
 
 ---
 
