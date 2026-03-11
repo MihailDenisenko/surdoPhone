@@ -3,6 +3,10 @@
 
 > 📱 Кроссплатформенное мобильное приложение для изучения Русского жестового языка (РЖЯ)
 
+
+![React Native](https://raw.githubusercontent.com/MihailDenisenko/surdoPhone/main/assets/React_Native-20232A.svg)
+
+
 ![React Native](./assets/React_Native-20232A.svg)
 ![TypeScript](./assets/TypeScript-007ACC.svg)
 ![iOS](./assets/iOS-000000.svg)
