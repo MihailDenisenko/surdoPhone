@@ -4,15 +4,16 @@
 > 📱 Кроссплатформенное мобильное приложение для изучения Русского жестового языка (РЖЯ)
 ```
 
+<div align="center">
 
-
-<p align="center">
 ![React Native](./assets/React_Native-20232A.svg)
 ![TypeScript](./assets/TypeScript-007ACC.svg)
 ![iOS](./assets/iOS-000000.svg)
 ![Android](./assets/Android-3DDC84.svg)
 ![License](./assets/License-MIT-blue.svg)
-</p>
+
+</div>
+
 
 ---
 
