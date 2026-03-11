@@ -225,9 +225,9 @@ yarn typecheck
 ## 💬 Контакты и поддержка
 
 - 🌐 Веб-платформа: [surdo.media](https://surdo.media)
-- ✉️ Email: `arkmedia.spb@yandex.ru`
-- ▶️ YouTube: [@ARKMEDIA-SPB](https://youtube.com/@ARKMEDIA-SPB)
-- 💬 VK: [arkspborg](https://vk.com/arkspborg)
+- ✉️ Email: `admin@vidkino.media`
+- ▶️ YouTube: [@ARKMEDIA-SPB](https://www.youtube.com/@VidKino_media)
+- 💬 VK: [arkspborg](https://vk.com/vidkino_media)
 
 ---
 
