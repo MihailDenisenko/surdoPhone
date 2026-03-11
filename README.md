@@ -10,12 +10,11 @@
 ![License](./assets/License-MIT-blue.svg)
 
 <p align="center">
-  <!-- Локальные файлы -->
-  <img src="./assets/React_Native-20232A.svg" onerror="this.onerror=null; this.src='https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react'" width="auto" height="28" alt="React Native" />
-  <img src="./assets/TypeScript-007ACC.svg" onerror="this.onerror=null; this.src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript'" width="auto" height="28" alt="TypeScript" />
-  <img src="./assets/iOS-000000.svg" onerror="this.onerror=null; this.src='https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple'" width="auto" height="28" alt="iOS" />
-  <img src="./assets/Android-3DDC84.svg" onerror="this.onerror=null; this.src='https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android'" width="auto" height="28" alt="Android" />
-  <img src="./assets/License-MIT-blue.svg" onerror="this.onerror=null; this.src='https://img.shields.io/badge/License-MIT-blue?style=for-the-badge'" width="auto" height="28" alt="MIT License" />
+  <img src="./assets/React_Native-20232A.svg" width="auto" height="28" alt="React Native" />
+  <img src="./assets/TypeScript-007ACC.svg" width="auto" height="28" alt="TypeScript" />
+  <img src="./assets/iOS-000000.svg" width="auto" height="28" alt="iOS" />
+  <img src="./assets/Android-3DDC84.svg" width="auto" height="28" alt="Android" />
+  <img src="./assets/License-MIT-blue.svg" width="auto" height="28" alt="MIT License" />
 </p>
 
 ---
