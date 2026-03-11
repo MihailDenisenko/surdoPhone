@@ -1,23 +1,17 @@
+```
 # 🤟 Surdo.Media Mobile
 
 > 📱 Кроссплатформенное мобильное приложение для изучения Русского жестового языка (РЖЯ)
+```
 
 
-![React Native](https://raw.githubusercontent.com/MihailDenisenko/surdoPhone/main/assets/React_Native-20232A.svg)
 
-
+<p align="center">
 ![React Native](./assets/React_Native-20232A.svg)
 ![TypeScript](./assets/TypeScript-007ACC.svg)
 ![iOS](./assets/iOS-000000.svg)
 ![Android](./assets/Android-3DDC84.svg)
 ![License](./assets/License-MIT-blue.svg)
-
-<p align="center">
-  <img src="./assets/React_Native-20232A.svg" width="auto" height="28" alt="React Native" />
-  <img src="./assets/TypeScript-007ACC.svg" width="auto" height="28" alt="TypeScript" />
-  <img src="./assets/iOS-000000.svg" width="auto" height="28" alt="iOS" />
-  <img src="./assets/Android-3DDC84.svg" width="auto" height="28" alt="Android" />
-  <img src="./assets/License-MIT-blue.svg" width="auto" height="28" alt="MIT License" />
 </p>
 
 ---
